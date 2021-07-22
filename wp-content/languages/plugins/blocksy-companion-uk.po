@@ -1,0 +1,1953 @@
+# Translation of Plugins - Blocksy Companion - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Blocksy Companion - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-08 11:16:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Blocksy Companion - Stable (latest release)\n"
+
+#: framework/extensions/trending/customizer.php:296
+msgid "Posts Font"
+msgstr "Шрифт записів"
+
+#: framework/features/header/items/account/options.php:966
+msgid "Element Visibility"
+msgstr "Видимість елемента"
+
+#: framework/features/header/items/account/options.php:514
+#: framework/features/header/items/account/options.php:543
+#: framework/features/header/items/account/options.php:575
+#: framework/features/header/items/account/options.php:605
+msgid "Label Color"
+msgstr "Колір мітки"
+
+#: framework/features/header/items/account/options.php:503
+msgid "Label Font"
+msgstr "Шрифт мітки"
+
+#: framework/features/header/items/account/options.php:269
+msgid "Label Type"
+msgstr "Тип мітки"
+
+#: framework/features/header/items/account/options.php:261
+#: framework/features/header/items/account/options.php:467
+msgid "Bottom"
+msgstr "Знизу"
+
+#: framework/features/header/items/account/options.php:252
+#: framework/features/header/items/account/options.php:458
+msgid "Label Position"
+msgstr "Позиція мітки"
+
+#: framework/features/header/items/account/options.php:116
+#: framework/features/header/items/account/options.php:342
+msgid "Account Image"
+msgstr "Зображення акаунту"
+
+#: framework/features/header/items/account/options.php:660
+#: framework/features/header/items/account/options.php:688
+#: framework/features/header/items/account/options.php:719
+#: framework/features/header/items/account/options.php:748
+msgid "Icon Color"
+msgstr "Колір іконки"
+
+#: framework/features/header/items/account/options.php:288
+#: framework/features/header/items/account/options.php:475
+msgid "Label Text"
+msgstr "Текст мітки"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:99
+msgid "Container Type"
+msgstr "Тип контейнера"
+
+#: framework/extensions/product-reviews/extension.php:154
+msgid "Search Product Review"
+msgstr "Шукати огляд товару"
+
+#: framework/extensions/product-reviews/extension.php:153
+msgid "Update Product Review"
+msgstr "Оновити огляд товару"
+
+#: framework/extensions/product-reviews/extension.php:152
+msgid "Edit Product Review"
+msgstr "Редагувати огляд товару"
+
+#: framework/extensions/product-reviews/extension.php:151
+msgid "Add New Review"
+msgstr "Додати новий огляд"
+
+#: framework/extensions/product-reviews/extension.php:150
+msgid "Add New Product Review"
+msgstr "Додати новий огляд товару"
+
+#: framework/extensions/product-reviews/extension.php:149
+msgid "View Product Review"
+msgstr "Переглянути огляд товару"
+
+#: framework/extensions/product-reviews/extension.php:148
+msgid "All Reviews"
+msgstr "Всі огляди"
+
+#: framework/extensions/product-reviews/extension.php:147
+msgid "Parent Product Review"
+msgstr "Огляд батьківського товару"
+
+#: framework/extensions/product-reviews/extension.php:145
+msgid "Product Review"
+msgstr "Огляд товару"
+
+#: framework/extensions/product-reviews/config.php:5
+msgid "A custom post type specially designed for creating product reviews."
+msgstr "Користувацький тип публікацій, спеціально розроблений для створення відгуків про товари."
+
+#: framework/extensions/product-reviews/config.php:4
+#: framework/extensions/product-reviews/extension.php:140
+#: framework/extensions/product-reviews/extension.php:141
+#: framework/extensions/product-reviews/extension.php:144
+#: framework/extensions/product-reviews/extension.php:146
+msgid "Product Reviews"
+msgstr "Огляди товарів"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/widget.php:14
+msgid "Newsletter subscribe form"
+msgstr "Форма підписки на новини"
+
+#: framework/extensions/newsletter-subscribe/config.php:4
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/widget.php:13
+msgid "Newsletter Subscribe"
+msgstr "Підписка на новини"
+
+#: framework/features/header/items/account/options.php:12
+msgid "Modal"
+msgstr "Модальний"
+
+#: framework/features/header/items/account/options.php:260
+#: framework/features/header/items/account/options.php:466
+msgid "Right"
+msgstr "Праве"
+
+#: framework/features/header/items/account/options.php:259
+#: framework/features/header/items/account/options.php:465
+msgid "Left"
+msgstr "Ліве"
+
+#: framework/features/header/items/account/options.php:192
+#: framework/features/header/items/account/options.php:398
+msgid "Type 6"
+msgstr "Тип 6"
+
+#: framework/features/header/items/account/options.php:187
+#: framework/features/header/items/account/options.php:393
+msgid "Type 5"
+msgstr "Тип 5"
+
+#: framework/features/header/items/account/options.php:182
+#: framework/features/header/items/account/options.php:388
+msgid "Type 4"
+msgstr "Тип 4"
+
+#: framework/features/header/items/account/options.php:177
+#: framework/features/header/items/account/options.php:383
+msgid "Type 3"
+msgstr "Тип 3"
+
+#. translators: placeholder here means the actual URL.
+#: framework/features/header/items/account/options.php:84
+msgid "Manage your menu items in the %sMenus screen%s."
+msgstr "Керуйте пунктами меню на %sЕкрані меню%s."
+
+#: framework/features/header/items/account/options.php:80
+msgid "Select menu..."
+msgstr "Виберіть меню"
+
+#: framework/features/header/items/account/options.php:74
+msgid "Select Menu"
+msgstr "Вибрати меню"
+
+#: framework/features/header/items/account/options.php:7
+#: framework/features/header/items/account/options.php:13
+msgid "Custom Link"
+msgstr "Користувацьке посилання"
+
+#: framework/features/header/items/account/options.php:61
+#: framework/features/header/items/account/options.php:311
+msgid "Account Action"
+msgstr "Дія облікового запису"
+
+#: framework/features/header/items/account/options.php:41
+msgid "Logged Out Options"
+msgstr "Параметри для не авторизованих"
+
+#: framework/features/header/items/account/options.php:36
+msgid "Logged In Options"
+msgstr "Параметри для авторизованих"
+
+#: framework/features/header/items/account/options.php:24
+msgid "Customizing: Logged in State"
+msgstr "Налаштування: Вхід у систему"
+
+#: framework/extensions/product-reviews/metabox.php:134
+msgid "Product specs"
+msgstr "Характеристики товару"
+
+#: framework/extensions/product-reviews/metabox.php:95
+msgid "Scores"
+msgstr "Бали"
+
+#: framework/extensions/product-reviews/metabox.php:80
+msgid "Small Description"
+msgstr "Малий опис"
+
+#: framework/extensions/product-reviews/metabox.php:58
+msgid "Read More Button Label"
+msgstr "Мітка кнопки Читати далі"
+
+#: framework/extensions/product-reviews/metabox.php:30
+msgid "Affiliate Link"
+msgstr "Партнерське посилання"
+
+#: framework/extensions/product-reviews/metabox.php:23
+msgid "Affiliate Button Label"
+msgstr "Мітка партнерської кнопки"
+
+#: framework/extensions/product-reviews/metabox.php:12
+msgid "Gallery"
+msgstr "Галерея"
+
+#. Translators: %s is the theme name.
+#: framework/extensions/product-reviews/extension.php:219
+msgid "Blocksy"
+msgstr "Blocksy"
+
+#. Translators: %s is the theme name.
+#: framework/extensions/product-reviews/extension.php:218
+msgid "%s Settings"
+msgstr "%s Налаштування"
+
+#: framework/extensions/product-reviews/extension.php:199
+msgid "New Category Name"
+msgstr "Назва нової категорії"
+
+#: framework/extensions/product-reviews/extension.php:198
+msgid "Add New Category"
+msgstr "Додати нову категорію"
+
+#: framework/extensions/product-reviews/extension.php:197
+msgid "Update Category"
+msgstr "Оновити категорію"
+
+#: framework/extensions/product-reviews/extension.php:196
+msgid "Edit Category"
+msgstr "Редагувати категорію"
+
+#: framework/extensions/product-reviews/extension.php:195
+msgid "Parent Category:"
+msgstr "Батьківська категорія:"
+
+#: framework/extensions/product-reviews/extension.php:194
+msgid "Parent Category"
+msgstr "Батьківська категорія"
+
+#: framework/extensions/product-reviews/extension.php:193
+msgid "All Categories"
+msgstr "Всі категорії"
+
+#: framework/extensions/product-reviews/extension.php:192
+msgid "Search Category"
+msgstr "Шукати категорії"
+
+#: framework/extensions/product-reviews/extension.php:190
+#: framework/extensions/product-reviews/extension.php:200
+msgid "Categories"
+msgstr "Категорії"
+
+#: framework/extensions/product-reviews/extension.php:156
+msgid "Not found in Trash"
+msgstr "Не знайдено у кошику"
+
+#: framework/extensions/product-reviews/extension.php:155
+msgid "Not Found"
+msgstr "Не знайдено"
+
+#: framework/extensions/product-reviews/metabox.php:179
+#: framework/extensions/product-reviews/views/single-top.php:231
+msgid "Cons"
+msgstr "Переваги"
+
+#: framework/extensions/product-reviews/metabox.php:159
+#: framework/extensions/product-reviews/views/single-top.php:215
+msgid "Pros"
+msgstr "Недоліки"
+
+#: framework/extensions/product-reviews/views/single-top.php:198
+msgid "Specs"
+msgstr "Характеристики"
+
+#: framework/extensions/product-reviews/metabox.php:60
+#: framework/extensions/product-reviews/views/single-top.php:137
+msgid "Read More"
+msgstr "Читати більше"
+
+#: framework/extensions/product-reviews/metabox.php:25
+#: framework/extensions/product-reviews/views/single-top.php:131
+msgid "Buy Now"
+msgstr "Купити зараз"
+
+#: framework/extensions/product-reviews/extension.php:78
+#: framework/extensions/product-reviews/views/single-top.php:118
+msgid "Overall Score"
+msgstr "Загальні бали"
+
+#: framework/extensions/product-reviews/helpers.php:26
+#: framework/extensions/product-reviews/metabox.php:89
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: framework/theme-integration.php:266
+msgid "TikTok"
+msgstr "TikTok"
+
+#: framework/theme-integration.php:265
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: framework/theme-integration.php:264
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: framework/theme-integration.php:263
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: framework/theme-integration.php:262
+msgid "YouTube"
+msgstr "YouTube"
+
+#: framework/theme-integration.php:260
+msgid "GitHub"
+msgstr "GitHub"
+
+#: framework/theme-integration.php:259
+msgid "WordPress"
+msgstr "WordPress"
+
+#: framework/theme-integration.php:258
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/features/header/header-options.php:74
+msgid "Auto Hide/Show"
+msgstr "Авто приховування/показ"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:67
+#: framework/extensions/widgets/widgets/ct-posts/options.php:126
+msgid "Image Ratio"
+msgstr "Співвідношення зображення"
+
+#: framework/features/header/items/account/options.php:216
+#: framework/features/header/items/account/options.php:422
+msgid "Label Visibility"
+msgstr "Видимість мітки"
+
+#: framework/features/conditions-manager.php:442
+msgid "Post with Taxonomy ID"
+msgstr "Допис з ID таксономії"
+
+#: framework/features/conditions-manager.php:526 static/bundle/options.js:6
+msgid "Exclude"
+msgstr "Виключити"
+
+#: framework/features/conditions-manager.php:526 static/bundle/options.js:6
+msgid "Include"
+msgstr "Включити"
+
+#. translators: %s: WordPress version
+#: blocksy-companion.php:126
+msgid "Blocksy requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Blocksy потрібна версія WordPress %s+. Оскільки ви використовуєте більш ранню версію, плагін наразі НЕ ПРАЦЮЄ."
+
+#. translators: %s: PHP version
+#: blocksy-companion.php:113
+msgid "Blocksy requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Blocksy потрібна версія PHP %s+, плагін наразі НЕ ПРАЦЮЄ."
+
+#: framework/extensions/widgets/widgets/ct-contact-info/widget.php:14
+msgid "Contact info"
+msgstr "Контакти"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:235
+msgid "Website:"
+msgstr "Веб-сайт:"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:229
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:207
+msgid "Email:"
+msgstr "Емейл:"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:179
+msgid "Fax:"
+msgstr "Факс:"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:173
+msgid "Fax"
+msgstr "Факс"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:151
+msgid "Opening hours"
+msgstr "Години роботи"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:145
+msgid "Work Hours"
+msgstr "Робочі години"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:88
+msgid "Phone"
+msgstr "Телефон"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:79
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:108
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:136
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:164
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:192
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:220
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:248
+msgid "Link (optional)"
+msgstr "Посилання (необов’язково)"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:61
+msgid "Address"
+msgstr "Адреса"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:52
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:123
+#: framework/extensions/widgets/widgets/ct-contact-info/view.php:39
+msgid "Mobile:"
+msgstr "Мобільний:"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:44
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:95
+#: framework/extensions/widgets/widgets/ct-contact-info/view.php:31
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:37
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:66
+#: framework/extensions/widgets/widgets/ct-contact-info/view.php:24
+msgid "Address:"
+msgstr "Адреса:"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:23
+#: framework/features/header/items/account/options.php:277
+msgid "Text"
+msgstr "Текст"
+
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:18
+#: framework/extensions/widgets/widgets/ct-contact-info/view.php:12
+#: framework/extensions/widgets/widgets/ct-contact-info/widget.php:13
+msgid "Contact Info"
+msgstr "Контакти"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:320
+msgid "Excerpt Lenght"
+msgstr "Довжина уривку"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:309
+msgid "Show Excerpt"
+msgstr "Показувати уривок"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:303
+msgid "Show Comments"
+msgstr "Показувати коментарі"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:297
+msgid "Show Date"
+msgstr "Показувати дату"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:286
+msgid "Pages Count"
+msgstr "Кількість сторінок"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:268
+msgid "Separate pages ID by comma. How to find the %spage ID%s."
+msgstr "Відокремте ID сторінок комами. Як знайти %sID сторінки%s."
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:264
+msgid "Pages ID"
+msgstr "ID сторінок"
+
+#: framework/extensions/trending/customizer.php:178
+#: framework/extensions/widgets/widgets/ct-posts/options.php:246
+msgid "Separate posts ID by comma. How to find the %spost ID%s."
+msgstr "Відокремте ID дописів комами. Як знайти %sID допису%s."
+
+#: framework/extensions/trending/customizer.php:174
+#: framework/extensions/widgets/widgets/ct-posts/options.php:242
+msgid "Posts ID"
+msgstr "ID дописів"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:224
+msgid "Posts Count"
+msgstr "Кількість дописів"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:217
+msgid "1 Year"
+msgstr "1 Рік"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:216
+msgid "6 Months"
+msgstr "6 Місяців"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:215
+msgid "3 Months"
+msgstr "3 Місяці"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:214
+msgid "1 Month"
+msgstr "1 Місяць"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:213
+msgid "1 Week"
+msgstr "1 Тиждень"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:207
+msgid "Order by"
+msgstr "Впорядкувати за"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:200
+msgid "Most Commented"
+msgstr "Найбільше коментарів"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:199
+msgid "Recent"
+msgstr "Останні"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:193
+msgid "Sort by"
+msgstr "Сортувати за"
+
+#: framework/extensions/trending/customizer.php:151
+#: framework/extensions/widgets/widgets/ct-posts/options.php:155
+#: framework/extensions/widgets/widgets/ct-posts/options.php:174
+msgid "Custom Query"
+msgstr "Користувацький запит"
+
+#: framework/extensions/trending/customizer.php:150
+#: framework/extensions/widgets/widgets/ct-posts/options.php:154
+msgid "Taxonomies"
+msgstr "Таксономії"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:113
+msgid "Numbered"
+msgstr "Пронумеровано"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:112
+msgid "Rounded Thumbnails"
+msgstr "Закруглені мініатюри"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:111
+msgid "First Thumbnail Large"
+msgstr "Перша мініатюра велика"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:110
+msgid "Large Thumbnails"
+msgstr "Великі мініатюри"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:109
+msgid "Small Thumbnails"
+msgstr "Малі мініатюри"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:108
+msgid "Without Thumbnails"
+msgstr "Без мініатюр"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:103
+msgid "Widget Design"
+msgstr "Дизайн віджета"
+
+#: framework/extensions/trending/customizer.php:42
+#: framework/extensions/widgets/widgets/ct-posts/options.php:44
+msgid "All taxonomies"
+msgstr "Всі таксономії"
+
+#: framework/extensions/trending/customizer.php:41
+#: framework/extensions/widgets/widgets/ct-posts/options.php:43
+msgid "Taxonomy"
+msgstr "Таксономія"
+
+#: framework/extensions/trending/customizer.php:36
+#: framework/extensions/widgets/widgets/ct-posts/options.php:38
+msgid "All categories"
+msgstr "Всі категорії"
+
+#: framework/extensions/product-reviews/extension.php:191
+#: framework/extensions/trending/customizer.php:35
+#: framework/extensions/widgets/widgets/ct-posts/options.php:37
+msgid "Category"
+msgstr "Категорія"
+
+#: framework/extensions/widgets/widgets/ct-about-me/view.php:99
+msgid "View Profile"
+msgstr "Переглянути профіль"
+
+#: framework/extensions/widgets/widgets/ct-about-me/widget.php:13
+msgid "About Me"
+msgstr "Про мене"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:151
+msgid "Social Channels"
+msgstr "Соціальні канали"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:135
+msgid "Alignment"
+msgstr "Вирівнювання"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:120
+msgid "Avatar Shape"
+msgstr "Форма аватару"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:89
+#: framework/extensions/widgets/widgets/ct-posts/widget.php:14
+msgid "Description"
+msgstr "Опис"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:57
+msgid "User"
+msgstr "Користувач"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:45
+msgid "From WP"
+msgstr "Від WP"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:106
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:32
+msgid "Boxed"
+msgstr "Стиснений"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:31
+msgid "Simple"
+msgstr "Простий"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:23
+msgid "Type"
+msgstr "Тип"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:18
+#: framework/extensions/widgets/widgets/ct-about-me/view.php:12
+#: framework/extensions/widgets/widgets/ct-about-me/widget.php:14
+msgid "About me"
+msgstr "Про мене"
+
+#: framework/extensions/widgets/widgets/ct-socials/widget.php:15
+msgid "Social channels icons"
+msgstr "Іконки соціальних каналів"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:228
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:299
+#: framework/extensions/widgets/widgets/ct-socials/options.php:106
+msgid "Outline"
+msgstr "Контурний"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:227
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:298
+#: framework/extensions/widgets/widgets/ct-socials/options.php:105
+msgid "Solid"
+msgstr "Суцільний"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:220
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:291
+#: framework/extensions/widgets/widgets/ct-socials/options.php:98
+msgid "Shape Fill Type"
+msgstr "Тип заливки форми"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:129
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:210
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:281
+#: framework/extensions/widgets/widgets/ct-socials/options.php:88
+msgid "Square"
+msgstr "Square"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:128
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:209
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:280
+#: framework/extensions/widgets/widgets/ct-socials/options.php:87
+msgid "Rounded"
+msgstr "Округлені"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:208
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:279
+#: framework/extensions/widgets/widgets/ct-socials/options.php:86
+#: framework/features/header/items/account/options.php:124
+#: framework/features/header/items/account/options.php:349
+msgid "None"
+msgstr "Жоден"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:201
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:272
+#: framework/extensions/widgets/widgets/ct-socials/options.php:79
+msgid "Icons Shape Type"
+msgstr "Тип форми іконок"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:115
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:196
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:267
+#: framework/extensions/widgets/widgets/ct-socials/options.php:74
+msgid "Large"
+msgstr "Великий"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:114
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:195
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:266
+#: framework/extensions/widgets/widgets/ct-socials/options.php:73
+#: framework/theme-integration.php:261
+msgid "Medium"
+msgstr "Середній"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:113
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:194
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:265
+#: framework/extensions/widgets/widgets/ct-socials/options.php:72
+msgid "Small"
+msgstr "Малий"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:187
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:258
+#: framework/extensions/widgets/widgets/ct-socials/options.php:65
+msgid "Icons Size"
+msgstr "Розмір іконок"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:154
+#: framework/extensions/widgets/widgets/ct-socials/options.php:27
+msgid "You can configure social URLs in %s."
+msgstr "Ви можете налаштувати соціальні URL-адреси у %s."
+
+#: framework/extensions/widgets/widgets/ct-socials/options.php:18
+#: framework/extensions/widgets/widgets/ct-socials/view.php:11
+#: framework/extensions/widgets/widgets/ct-socials/widget.php:14
+msgid "Social Icons"
+msgstr "Соціальні іконки"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:83
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:308
+msgid "Open link in new tab"
+msgstr "Відкрити посилання в новій вкладці"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:75
+msgid "Ad URL"
+msgstr "Ad URL"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:58
+msgid "Upload Image"
+msgstr "Завантажити зображення"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:42
+msgid "Ad Code"
+msgstr "Ad код"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:32
+msgid "Image"
+msgstr "Зображення"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:31
+msgid "Code"
+msgstr "Код"
+
+#: framework/extensions/trending/customizer.php:145
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:37
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:23
+#: framework/extensions/widgets/widgets/ct-posts/options.php:149
+#: framework/extensions/widgets/widgets/ct-posts/options.php:168
+msgid "Source"
+msgstr "Джерело"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:18
+#: framework/extensions/widgets/widgets/ct-advertisement/view.php:12
+#: framework/extensions/widgets/widgets/ct-advertisement/widget.php:13
+#: framework/extensions/widgets/widgets/ct-advertisement/widget.php:14
+msgid "Advertisement"
+msgstr "Реклама"
+
+#: framework/extensions/widgets/widgets/ct-facebook/widget.php:14
+msgid "Facebook like box"
+msgstr "Facebook вподобання"
+
+#: framework/extensions/widgets/widgets/ct-facebook/options.php:48
+msgid "Small Header"
+msgstr "Малий заголовок"
+
+#: framework/extensions/widgets/widgets/ct-facebook/options.php:42
+msgid "Cover Photo"
+msgstr "Фото обкладинки"
+
+#: framework/extensions/widgets/widgets/ct-facebook/options.php:36
+msgid "Timeline"
+msgstr "Хронологія"
+
+#: framework/extensions/widgets/widgets/ct-facebook/options.php:30
+msgid "Profile Photos"
+msgstr "Фотографії профілю"
+
+#: framework/extensions/widgets/widgets/ct-facebook/options.php:22
+msgid "Page URL"
+msgstr "URL-адреса сторінки"
+
+#. translators: %s here is the author name
+#: framework/extensions/widgets/widgets/ct-quote/view.php:49
+msgid "By %s"
+msgstr "Від %s"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:63
+#: framework/extensions/widgets/widgets/ct-quote/options.php:52
+msgid "Change Image"
+msgstr "Змінити зображення"
+
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:62
+#: framework/extensions/widgets/widgets/ct-quote/options.php:51
+msgid "Select Image"
+msgstr "Обрати зображення"
+
+#: framework/extensions/widgets/widgets/ct-quote/options.php:47
+msgid "Author Avatar"
+msgstr "Аватар автора"
+
+#: framework/extensions/widgets/widgets/ct-quote/options.php:41
+msgid "Author Label"
+msgstr "Мітка автора"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:84
+#: framework/extensions/widgets/widgets/ct-about-me/view.php:40
+#: framework/extensions/widgets/widgets/ct-quote/options.php:35
+#: framework/extensions/widgets/widgets/ct-quote/view.php:18
+msgid "John Doe"
+msgstr "John Doe"
+
+#: framework/extensions/widgets/widgets/ct-quote/options.php:32
+msgid "Author Name"
+msgstr "Ім'я Автора"
+
+#: framework/extensions/widgets/widgets/ct-quote/options.php:23
+msgid "Quote text"
+msgstr "Текст цитати"
+
+#: framework/extensions/widgets/widgets/ct-quote/options.php:18
+#: framework/extensions/widgets/widgets/ct-quote/view.php:12
+#: framework/extensions/widgets/widgets/ct-quote/widget.php:13
+#: framework/extensions/widgets/widgets/ct-quote/widget.php:14
+msgid "Quote"
+msgstr "Цитата"
+
+#: framework/extensions/widgets/config.php:4
+msgid "Popular/Recent Posts, Advertisement, Contact Info, Mailchimp Subscribe, Social Icons and more."
+msgstr "Популярні/останні публікації, Реклама, Контактна інформація, Підписка на Mailchimp, Соціальні іконки та інше."
+
+#: framework/extensions/cookies-consent/readme.php:16
+msgid "Customizer ➝ Cookie Consent"
+msgstr "Налаштовувач ➝ Згода cookie"
+
+#: framework/extensions/cookies-consent/readme.php:13
+msgid "Navigate to %s and customize the notification to meet your needs."
+msgstr "Перейдіть до %s та налаштуйте сповіщення відповідно до ваших потреб."
+
+#: framework/extensions/cookies-consent/readme.php:9
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:158
+#: framework/extensions/widgets/widgets/ct-socials/options.php:31
+msgid "Customizer"
+msgstr "Налаштовувач"
+
+#: framework/extensions/cookies-consent/readme.php:4
+msgid "After installing and activating the Cookies Consent extension you will be able to configure it from this location:"
+msgstr "Після установки та активації розширення Cookies Consent ви зможете налаштувати його з цього місця:"
+
+#: framework/extensions/cookies-consent/customizer.php:206
+msgid "This text will appear under each comment form and subscribe form."
+msgstr "Цей текст з’явиться під кожною формою коментарів та підписки."
+
+#: framework/extensions/cookies-consent/customizer.php:202
+#: framework/extensions/cookies-consent/helpers.php:78
+msgid "I accept the %sPrivacy Policy%s"
+msgstr "Я приймаю %sПолітику конфіденційності%s"
+
+#: framework/extensions/cookies-consent/customizer.php:195
+msgid "Forms Cookies Content"
+msgstr "Згода Cookies у формах"
+
+#: framework/extensions/cookies-consent/customizer.php:179
+msgid "Maximum Width"
+msgstr "Максимальна ширина"
+
+#: framework/extensions/cookies-consent/customizer.php:82
+#: framework/extensions/cookies-consent/helpers.php:33
+msgid "Accept"
+msgstr "Прийняти"
+
+#: framework/extensions/cookies-consent/customizer.php:79
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: framework/extensions/cookies-consent/customizer.php:67
+#: framework/extensions/cookies-consent/helpers.php:30
+msgid "We use cookies to ensure that we give you the best experience on our website."
+msgstr "Ми використовуємо файли cookie аби забезпечити вам найкращий досвід на нашому веб-сайті."
+
+#: framework/extensions/cookies-consent/customizer.php:65
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:72
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:101
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:129
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:157
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:185
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:213
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:241
+msgid "Content"
+msgstr "Вміст"
+
+#: framework/extensions/cookies-consent/customizer.php:58
+msgid "Forever"
+msgstr "Назавжди"
+
+#: framework/extensions/cookies-consent/customizer.php:57
+msgid "One year"
+msgstr "Один рік"
+
+#: framework/extensions/cookies-consent/customizer.php:56
+msgid "Six months"
+msgstr "Шість місяців"
+
+#: framework/extensions/cookies-consent/customizer.php:55
+msgid "Three months"
+msgstr "Три місяці"
+
+#: framework/extensions/cookies-consent/customizer.php:54
+msgid "One month"
+msgstr "Один місяць"
+
+#: framework/extensions/cookies-consent/customizer.php:53
+msgid "One week"
+msgstr "Один тиждень"
+
+#: framework/extensions/cookies-consent/customizer.php:52
+msgid "One day"
+msgstr "Один день"
+
+#: framework/extensions/cookies-consent/customizer.php:51
+msgid "One hour"
+msgstr "Одна година"
+
+#: framework/extensions/cookies-consent/customizer.php:43
+msgid "Cookie period"
+msgstr "Період Cookie"
+
+#: framework/extensions/cookies-consent/customizer.php:36
+#: framework/features/header/items/account/options.php:172
+#: framework/features/header/items/account/options.php:378
+msgid "Type 2"
+msgstr "Тип 2"
+
+#: framework/extensions/cookies-consent/customizer.php:31
+#: framework/features/header/items/account/options.php:167
+#: framework/features/header/items/account/options.php:373
+msgid "Type 1"
+msgstr "Тип 1"
+
+#: framework/extensions/cookies-consent/customizer.php:14
+msgid "Cookies Notification"
+msgstr "Сповіщення Cookies"
+
+#: framework/extensions/cookies-consent/customizer.php:4
+msgid "Cookie Consent"
+msgstr "Згода Cookie"
+
+#: framework/extensions/cookies-consent/config.php:5
+msgid "Enable this extension in order to comply with the GDPR regulations."
+msgstr "Увімкніть це розширення, щоб відповідати правилам GDPR."
+
+#: framework/extensions/cookies-consent/config.php:4
+msgid "Cookies Consent"
+msgstr "Згода Cookies"
+
+#: framework/extensions/newsletter-subscribe/readme.php:32
+msgid "Customizer ➝ Single Posts"
+msgstr "Налаштовувач ➝ Окремий допис"
+
+#: framework/extensions/newsletter-subscribe/readme.php:29
+msgid "Navigate to %s and customize the form and more."
+msgstr "Перейдіть до %s та налаштуйте форму та інше."
+
+#: framework/extensions/newsletter-subscribe/customizer.php:244
+msgid "Shadow"
+msgstr "Тінь"
+
+#: framework/extensions/cookies-consent/customizer.php:154
+#: framework/extensions/newsletter-subscribe/customizer.php:212
+msgid "Background Color"
+msgstr "Колір фону"
+
+#: framework/extensions/cookies-consent/customizer.php:126
+#: framework/extensions/newsletter-subscribe/customizer.php:183
+msgid "Button Color"
+msgstr "Колір кнопки"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:21
+#: framework/extensions/newsletter-subscribe/helpers.php:42
+#: framework/extensions/newsletter-subscribe/helpers.php:96
+msgid "Newsletter Updates"
+msgstr "Оновлення розсилки"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:4
+msgid "Subscribe Form"
+msgstr "Форма підписки"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:104
+#: framework/extensions/newsletter-subscribe/helpers.php:163
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:81
+#: framework/features/header/items/account/options.php:278
+#: static/bundle/dashboard.js:6 static/js/screens/SiteExport.js:81
+#: static/js/screens/SiteExport.js:85
+msgid "Name"
+msgstr "Ім'я"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:112
+msgid "Content Alignment"
+msgstr "Вирівнювання вмісту"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:94
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:19
+#: framework/extensions/newsletter-subscribe/customizer.php:116
+#: framework/extensions/newsletter-subscribe/extension.php:176
+#: framework/extensions/newsletter-subscribe/helpers.php:52
+#: framework/extensions/newsletter-subscribe/helpers.php:101
+msgid "Subscribe"
+msgstr "Підписатися"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:92
+#: framework/extensions/newsletter-subscribe/customizer.php:114
+msgid "Button Label"
+msgstr "Мітка кнопки"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:86
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:70
+#: framework/extensions/newsletter-subscribe/customizer.php:107
+#: framework/extensions/newsletter-subscribe/extension.php:182
+#: framework/extensions/newsletter-subscribe/helpers.php:61
+#: framework/extensions/newsletter-subscribe/helpers.php:109
+msgid "Your email"
+msgstr "Ваш емейл"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:84
+#: framework/extensions/newsletter-subscribe/customizer.php:105
+msgid "Mail Label"
+msgstr "Мітка пошти"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:75
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:69
+#: framework/extensions/newsletter-subscribe/customizer.php:95
+#: framework/extensions/newsletter-subscribe/extension.php:181
+#: framework/extensions/newsletter-subscribe/helpers.php:57
+#: framework/extensions/newsletter-subscribe/helpers.php:108
+msgid "Your name"
+msgstr "Ваше ім'я"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:73
+#: framework/extensions/newsletter-subscribe/customizer.php:93
+msgid "Name Label"
+msgstr "Мітка імені"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:61
+#: framework/extensions/newsletter-subscribe/customizer.php:80
+msgid "Name Field"
+msgstr "Поле Імені"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:49
+#: framework/extensions/newsletter-subscribe/customizer.php:62
+#: framework/extensions/newsletter-subscribe/dashboard-static/bundle/main.js:14
+#: framework/extensions/newsletter-subscribe/dashboard-static/js/EditCredentials.js:187
+msgid "List ID"
+msgstr "ID списку"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:39
+#: framework/extensions/newsletter-subscribe/customizer.php:50
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:46
+msgid "Custom"
+msgstr "Користувацький"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:31
+#: framework/extensions/newsletter-subscribe/customizer.php:42
+msgid "List Source"
+msgstr "Джерело списку"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:24
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:16
+#: framework/extensions/newsletter-subscribe/customizer.php:29
+#: framework/extensions/newsletter-subscribe/helpers.php:45
+#: framework/extensions/newsletter-subscribe/helpers.php:97
+msgid "Enter your email address below to subscribe to our newsletter"
+msgstr "Введіть свою електронну адресу нижче, щоб підписатися на нашу розсилку"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:22
+#: framework/extensions/newsletter-subscribe/customizer.php:27
+msgid "Message"
+msgstr "Повідомлення"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:17
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:12
+msgid "Newsletter"
+msgstr "Розсилка"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:14
+#: framework/extensions/newsletter-subscribe/customizer.php:18
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:15
+#: framework/extensions/widgets/widgets/ct-advertisement/options.php:15
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:15
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:65
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:94
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:122
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:150
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:178
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:206
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:234
+#: framework/extensions/widgets/widgets/ct-facebook/options.php:13
+#: framework/extensions/widgets/widgets/ct-posts/options.php:95
+#: framework/extensions/widgets/widgets/ct-quote/options.php:15
+#: framework/extensions/widgets/widgets/ct-socials/options.php:15
+msgid "Title"
+msgstr "Заголовок"
+
+#: framework/extensions/newsletter-subscribe/extension.php:129
+msgid "Disable Subscribe Form"
+msgstr "Вимкнути форму підписки"
+
+#: framework/extensions/newsletter-subscribe/readme.php:17
+msgid "Appearance ➝ Widgets"
+msgstr "Зовнішній вигляд ➝ Віджети"
+
+#: framework/extensions/newsletter-subscribe/readme.php:14
+msgid "Navigate to %s and place the widget in any widget area you want."
+msgstr "Перейдіть до %s і помістіть віджет у будь-яку область віджетів, яку ви хочете."
+
+#: framework/extensions/newsletter-subscribe/customizer.php:126
+msgid "Visibility"
+msgstr "Видимість"
+
+#: framework/extensions/cookies-consent/readme.php:1
+#: framework/extensions/newsletter-subscribe/readme.php:1
+msgid "Instructions"
+msgstr "Інструкції"
+
+#: framework/extensions/trending/customizer.php:117
+#: framework/extensions/trending/helpers.php:216
+msgid "Trending now"
+msgstr "Популярне зараз"
+
+#: framework/extensions/trending/customizer.php:337
+msgid "Container Background"
+msgstr "Фон контейнеру"
+
+#: framework/extensions/cookies-consent/customizer.php:95
+#: framework/extensions/trending/customizer.php:305
+#: framework/features/header/items/account/options.php:808
+msgid "Font Color"
+msgstr "Колір шрифту"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:138
+#: framework/extensions/trending/customizer.php:236
+#: framework/features/header/items/account/options.php:229
+#: framework/features/header/items/account/options.php:435
+#: framework/features/header/items/account/options.php:977
+msgid "Tablet"
+msgstr "Планшет"
+
+#: framework/extensions/trending/customizer.php:223
+msgid "Container Visibility"
+msgstr "Видимість контейнера"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:233
+#: framework/extensions/trending/customizer.php:353
+msgid "Container Inner Spacing"
+msgstr "Внутрішній простір контейнера"
+
+#: framework/extensions/trending/customizer.php:206
+msgid "Last Month"
+msgstr "Минулого місяця"
+
+#: framework/extensions/trending/customizer.php:205
+msgid "Last 7 Days"
+msgstr "Останні 7 днів"
+
+#: framework/extensions/trending/customizer.php:204
+msgid "Last 24 Hours"
+msgstr "Останні 24 години"
+
+#: framework/extensions/trending/customizer.php:203
+#: framework/extensions/widgets/widgets/ct-posts/options.php:212
+msgid "All Time"
+msgstr "Весь час"
+
+#: framework/extensions/trending/customizer.php:194
+msgid "Trending From"
+msgstr "Популярне від"
+
+#: framework/extensions/trending/customizer.php:123
+#: framework/extensions/trending/customizer.php:136
+#: framework/extensions/widgets/widgets/ct-posts/options.php:137
+msgid "Post Type"
+msgstr "Тип допису"
+
+#: framework/extensions/trending/config.php:4
+#: framework/extensions/trending/customizer.php:96
+#: framework/extensions/trending/customizer.php:105
+msgid "Trending Posts"
+msgstr "Популярні дописи"
+
+#: framework/extensions/trending/customizer.php:8
+msgid "Products"
+msgstr "Товари"
+
+#: framework/extensions/trending/config.php:5
+msgid "Display a trending list of posts, products or custom post types at the bottom of your website."
+msgstr "Відобразити список популярних записів, продуктів або користувацьких типів публікацій у нижній частині веб-сайту."
+
+#: framework/extensions/trending/customizer.php:269
+#: framework/features/header/header-options.php:144 static/bundle/options.js:6
+#: static/js/header/EditConditions.js:96
+msgid "Display Conditions"
+msgstr "Умови відображення"
+
+#: framework/features/header/header-options.php:106
+msgid "Transparent Functionality"
+msgstr "Функціонал Прозорості"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:139
+#: framework/extensions/trending/customizer.php:237
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:117
+#: framework/features/header/header-options.php:91
+#: framework/features/header/header-options.php:173
+#: framework/features/header/items/account/options.php:230
+#: framework/features/header/items/account/options.php:436
+#: framework/features/header/items/account/options.php:978
+msgid "Mobile"
+msgstr "Мобільний"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:137
+#: framework/extensions/trending/customizer.php:235
+#: framework/features/header/header-options.php:89
+#: framework/features/header/header-options.php:171
+#: framework/features/header/items/account/options.php:228
+#: framework/features/header/items/account/options.php:434
+msgid "Desktop"
+msgstr "Настільний"
+
+#: framework/features/header/header-options.php:79
+#: framework/features/header/header-options.php:160
+msgid "Enable on"
+msgstr "Увімкнути на"
+
+#: framework/features/header/header-options.php:73
+msgid "Fade"
+msgstr "Зникнення"
+
+#: framework/features/header/header-options.php:72
+msgid "Slide Down"
+msgstr "Випадіння вниз"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:38
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:105
+#: framework/extensions/newsletter-subscribe/customizer.php:49
+#: framework/extensions/widgets/widgets/ct-posts/options.php:173
+#: framework/extensions/widgets/widgets/ct-posts/options.php:198
+#: framework/features/header/header-options.php:71
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: framework/features/header/header-options.php:63
+msgid "Sticky Effect"
+msgstr "Ефект закріплення"
+
+#: framework/features/header/header-options.php:57
+msgid "Only Bottom Row"
+msgstr "Лише нижній рядок"
+
+#: framework/features/header/header-options.php:52
+msgid "Only Top Row"
+msgstr "Лише верхній рядок"
+
+#: framework/features/header/header-options.php:47
+msgid "Main & Bottom Row"
+msgstr "Основний і нижній рядки"
+
+#: framework/features/header/header-options.php:42
+msgid "All Rows"
+msgstr "Всі рядки"
+
+#: framework/features/header/header-options.php:37
+msgid "Top & Main Row"
+msgstr "Верхній та основний рядки"
+
+#: framework/features/header/header-options.php:32
+msgid "Only Main Row"
+msgstr "Лише основний рядок"
+
+#: framework/features/header/header-options.php:6
+msgid "Sticky Functionality"
+msgstr "Функціонал Закріплення"
+
+#: framework/features/header/account-modal.php:64
+msgid "Back to login"
+msgstr "Повернутись до входу"
+
+#: framework/features/header/modal/lostpassword.php:11
+msgid "Get New Password"
+msgstr "Отримати новий пароль"
+
+#: framework/features/header/modal/lostpassword.php:5
+msgid "Username or Email Address"
+msgstr "Ім'я користувача або електронна адреса"
+
+#: framework/features/header/modal/register.php:23
+msgid "Register"
+msgstr "Реєстрація"
+
+#: framework/features/header/modal/register.php:18
+msgid "Registration confirmation will be emailed to you"
+msgstr "Підтвердження реєстрації буде надіслано вам на емейл"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:107
+#: framework/extensions/newsletter-subscribe/helpers.php:166
+#: framework/extensions/widgets/widgets/ct-contact-info/options.php:201
+#: framework/features/header/modal/register.php:11
+msgid "Email"
+msgstr "Емейл"
+
+#: framework/features/header/modal/register.php:6
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: framework/features/header/modal/login.php:41
+msgid "Log In"
+msgstr "Увійти"
+
+#: framework/features/header/modal/login.php:33
+msgid "Forgot Password?"
+msgstr "Забули пароль?"
+
+#: framework/features/header/modal/login.php:29
+msgid "Remember Me"
+msgstr "Запам'ятати мене"
+
+#: framework/features/header/modal/login.php:22
+msgid "Password"
+msgstr "Пароль"
+
+#: framework/features/header/modal/login.php:17
+msgid "Email Address"
+msgstr "Емейл адреса"
+
+#: framework/features/header/account-modal.php:45
+msgid "Sign Up"
+msgstr "Зареєструватися"
+
+#: framework/features/header/items/account/config.php:4
+msgid "Account"
+msgstr "Обліковий запис"
+
+#: framework/features/header/items/account/options.php:936
+msgid "Modal Backdrop"
+msgstr "Модальний задній план"
+
+#: framework/features/header/items/account/options.php:890
+msgid "Close Icon Background"
+msgstr "Фон іконки закриття"
+
+#: framework/features/header/items/account/options.php:858
+msgid "Close Icon Color"
+msgstr "Колір іконки закриття"
+
+#: framework/features/header/items/account/options.php:785
+msgid "Item Margin"
+msgstr "Зовнішній відступ елемента"
+
+#: framework/extensions/cookies-consent/customizer.php:118
+#: framework/extensions/cookies-consent/customizer.php:147
+#: framework/extensions/newsletter-subscribe/customizer.php:175
+#: framework/extensions/newsletter-subscribe/customizer.php:205
+#: framework/extensions/trending/customizer.php:329
+#: framework/features/header/items/account/options.php:567
+#: framework/features/header/items/account/options.php:598
+#: framework/features/header/items/account/options.php:628
+#: framework/features/header/items/account/options.php:711
+#: framework/features/header/items/account/options.php:741
+#: framework/features/header/items/account/options.php:770
+#: framework/features/header/items/account/options.php:832
+#: framework/features/header/items/account/options.php:882
+#: framework/features/header/items/account/options.php:913
+msgid "Hover"
+msgstr "При наведенні"
+
+#: framework/extensions/cookies-consent/customizer.php:112
+#: framework/extensions/cookies-consent/customizer.php:142
+#: framework/extensions/cookies-consent/customizer.php:167
+#: framework/extensions/newsletter-subscribe/customizer.php:169
+#: framework/extensions/newsletter-subscribe/customizer.php:200
+#: framework/extensions/newsletter-subscribe/customizer.php:225
+#: framework/extensions/trending/customizer.php:323
+#: framework/features/header/items/account/options.php:561
+#: framework/features/header/items/account/options.php:593
+#: framework/features/header/items/account/options.php:623
+#: framework/features/header/items/account/options.php:705
+#: framework/features/header/items/account/options.php:736
+#: framework/features/header/items/account/options.php:765
+#: framework/features/header/items/account/options.php:826
+#: framework/features/header/items/account/options.php:876
+#: framework/features/header/items/account/options.php:907
+msgid "Initial"
+msgstr "Первинний"
+
+#: framework/features/header/items/account/options.php:533
+#: framework/features/header/items/account/options.php:679
+msgid "Sticky State"
+msgstr "Прикріплене положення"
+
+#: framework/features/header/items/account/options.php:524
+#: framework/features/header/items/account/options.php:670
+msgid "Transparent State"
+msgstr "Прозоре положення"
+
+#: framework/features/header/items/account/options.php:519
+#: framework/features/header/items/account/options.php:665
+msgid "Default State"
+msgstr "Звичайне положення"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:152
+msgid "Content Color"
+msgstr "Колір вмісту"
+
+#: framework/extensions/cookies-consent/customizer.php:90
+#: framework/extensions/newsletter-subscribe/customizer.php:147
+#: framework/extensions/trending/customizer.php:290
+#: framework/features/header/items/account/options.php:497
+msgid "Design"
+msgstr "Дизайн"
+
+#: framework/features/header/items/account/options.php:101
+#: framework/features/header/items/account/options.php:326
+msgid "Custom Page Link"
+msgstr "Посилання на користувацьку сторінку"
+
+#: framework/features/header/items/account/options.php:8
+msgid "Logout"
+msgstr "Вийти"
+
+#: framework/features/header/items/account/options.php:5
+msgid "Dashboard Page"
+msgstr "Сторінка інформаційної панелі"
+
+#: framework/features/header/items/account/options.php:4
+msgid "Profile Page"
+msgstr "Сторінка профілю"
+
+#: framework/features/header/items/account/options.php:293
+#: framework/features/header/items/account/views/login.php:67
+msgid "My Account"
+msgstr "Мій профіль"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:100
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:107
+#: framework/features/header/items/account/options.php:135
+msgid "Avatar Size"
+msgstr "Розмір аватару"
+
+#: framework/extensions/widgets/widgets/ct-about-me/options.php:72
+#: framework/features/header/items/account/options.php:122
+msgid "Avatar"
+msgstr "Аватар"
+
+#: framework/features/header/account-modal.php:41
+#: framework/features/header/items/account/options.php:481
+#: framework/features/header/items/account/views/logout.php:48
+msgid "Login"
+msgstr "Увійти"
+
+#: framework/features/header/items/account/options.php:198
+#: framework/features/header/items/account/options.php:404
+msgid "Icon Size"
+msgstr "Розмір іконки"
+
+#: framework/features/header/items/account/options.php:123
+#: framework/features/header/items/account/options.php:348
+msgid "Icon"
+msgstr "Іконка"
+
+#: framework/extensions/cookies-consent/customizer.php:18
+#: framework/extensions/newsletter-subscribe/customizer.php:12
+#: framework/extensions/product-reviews/metabox.php:6
+#: framework/extensions/trending/customizer.php:109
+#: framework/features/header/items/account/options.php:51
+msgid "General"
+msgstr "Загальні"
+
+#: framework/features/dynamic-css.php:63
+msgid "Emojis Script"
+msgstr "Скрипт емоджи"
+
+#: framework/features/dynamic-css.php:53
+msgid "Inline"
+msgstr "В лінію"
+
+#: framework/features/dynamic-css.php:52
+msgid "File"
+msgstr "Файл"
+
+#: framework/features/dynamic-css.php:50
+msgid "The strategy of outputing the dynamic CSS. File - all the CSS code will be placed in a static file, otherwise it will be placed inline in head."
+msgstr "Стратегія виведення динамічного CSS. Файл - весь CSS-код буде розміщено у статичному файлі, інакше він буде розміщений в заголовку."
+
+#: framework/features/dynamic-css.php:46
+msgid "Dynamic CSS Output"
+msgstr "Динамічний вихід CSS"
+
+#: framework/features/demo-install.php:229
+msgid "Your PHP installation doesn't have support for XML. Please install the <i>xml</i> or <i>simplexml</i> PHP extension in order to be able to install starter sites. You might need to contact your hosting provider to assist you in doing so."
+msgstr "Ваша інсталяція PHP не підтримує XML. Будь ласка, встановіть розширення <i>xml</i> або <i>simplexml</i> PHP, щоб мати можливість встановлювати стартові сайти. Можливо, вам доведеться зв’язатися зі своїм провайдером хостингу, щоб він допоміг вам у цьому."
+
+#: framework/features/demo-install/parsers.php:86
+#: framework/features/demo-install/parsers.php:91
+#: framework/features/demo-install/parsers.php:308
+#: framework/features/demo-install/parsers.php:504
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Здається, це не файл WXR, відсутній/недійсний номер версії WXR"
+
+#: framework/features/demo-install/parsers.php:44
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Деталі наведені вище. Тепер імпортер спробує ще раз із іншим парсером..."
+
+#: framework/features/demo-install/parsers.php:43
+#: framework/features/demo-install/parsers.php:74
+#: framework/features/demo-install/parsers.php:82
+msgid "There was an error when reading this WXR file"
+msgstr "Сталася помилка під час читання цього файлу WXR"
+
+#: framework/features/demo-install/wp-importer.php:1257
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Оберіть файл WXR (.xml) для завантаження, а потім натисніть Завантажити файл та імпортувати."
+
+#: framework/features/demo-install/wp-importer.php:1256
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "Привіт! Завантажте свій файл WordPress eXtended RSS (WXR), і ми імпортуємо публікації, сторінки, коментарі, власні поля, категорії та теги на цей сайт."
+
+#: framework/features/demo-install/wp-importer.php:1241
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Доступна нова версія цього імпортера. Будь ласка, оновіть до версії %s, щоб забезпечити сумісність із новими файлами експорту."
+
+#: framework/features/demo-install/wp-importer.php:1234
+msgid "Import WordPress"
+msgstr "Імпорт WordPress"
+
+#: framework/features/demo-install/wp-importer.php:1134
+msgid "Remote file is too large, limit is %s"
+msgstr "Віддалений файл завеликий, обмеження - %s"
+
+#: framework/features/demo-install/wp-importer.php:1128
+msgid "Zero size file downloaded"
+msgstr "Завантажено файл нульового розміру"
+
+#: framework/features/demo-install/wp-importer.php:1123
+msgid "Remote file is incorrect size"
+msgstr "Розмір віддаленого файлу неправильний"
+
+#: framework/features/demo-install/wp-importer.php:1116
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Віддалений сервер повернув відповідь з помилкою %1$d %2$s"
+
+#: framework/features/demo-install/wp-importer.php:1108
+msgid "Remote server did not respond"
+msgstr "Віддалений сервер не відповів"
+
+#: framework/features/demo-install/wp-importer.php:1058
+msgid "Invalid file type"
+msgstr "Недійсний тип файлу"
+
+#: framework/features/demo-install/wp-importer.php:1045
+msgid "Fetching attachments is not enabled"
+msgstr "Отримання вкладень не ввімкнено"
+
+#: framework/features/demo-install/wp-importer.php:981
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Пункт меню пропущено через недійсне посилання меню: %s"
+
+#: framework/features/demo-install/wp-importer.php:974
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Пункт меню пропущено через відсутність посилання меню"
+
+#: framework/features/demo-install/wp-importer.php:804
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не вдалося імпортувати %s &#8220;%s&#8221;"
+
+#: framework/features/demo-install/wp-importer.php:742
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; вже існує."
+
+#: framework/features/demo-install/wp-importer.php:673
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Не вдалося імпортувати  &#8220;%s&#8221;: Недійсний тип публікації %s"
+
+#: framework/features/demo-install/wp-importer.php:581
+#: framework/features/demo-install/wp-importer.php:838
+msgid "Failed to import %s %s"
+msgstr "Не вдалося імпортувати %s %s"
+
+#: framework/features/demo-install/wp-importer.php:528
+msgid "Failed to import post tag %s"
+msgstr "Не вдалося імпортувати тег публікації %s"
+
+#: framework/features/demo-install/wp-importer.php:482
+msgid "Failed to import category %s"
+msgstr "Не вдалося імпортувати категорію %s"
+
+#: framework/features/demo-install/wp-importer.php:430
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Не вдалося створити нового користувача для %s. Його публікації буде віднесено до поточного користувача."
+
+#: framework/features/demo-install/wp-importer.php:377
+msgid "- Select -"
+msgstr "- Обрати -"
+
+#: framework/features/demo-install/wp-importer.php:371
+msgid "or assign posts to an existing user:"
+msgstr "або призначити публікації існуючому користувачеві:"
+
+#: framework/features/demo-install/wp-importer.php:369
+msgid "assign posts to an existing user:"
+msgstr "призначити публікації існуючому користувачеві:"
+
+#: framework/features/demo-install/wp-importer.php:361
+msgid "as a new user:"
+msgstr "як новий користувач:"
+
+#: framework/features/demo-install/wp-importer.php:358
+msgid "or create new user with login name:"
+msgstr "або створити нового користувача з іменем користувача:"
+
+#: framework/features/demo-install/wp-importer.php:347
+msgid "Import author:"
+msgstr "Імпорт автора:"
+
+#: framework/features/demo-install/wp-importer.php:334
+msgid "Submit"
+msgstr "Відправити"
+
+#: framework/features/demo-install/wp-importer.php:330
+msgid "Download and import file attachments"
+msgstr "Завантажити та імпортувати файл вкладень"
+
+#: framework/features/demo-install/wp-importer.php:327
+msgid "Import Attachments"
+msgstr "Імпорт вкладень"
+
+#: framework/features/demo-install/wp-importer.php:317
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Якщо WordPress створить нового користувача, новий пароль буде сформований випадковим чином, а роль нового користувача буде встановлена ​​як %s. Буде потрібно вручну змінити дані нового користувача."
+
+#: framework/features/demo-install/wp-importer.php:315
+msgid "To make it simpler for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site, such as your primary administrator account."
+msgstr "Щоб спростити редагування та збереження імпортованого вмісту, можливо, ви захочете перепризначити автора імпортованого елемента існуючому користувачеві цього веб-сайту, наприклад, вашому основному обліковому запису адміністратора."
+
+#: framework/features/demo-install/wp-importer.php:314
+msgid "Assign Authors"
+msgstr "Призначити авторів"
+
+#: framework/features/demo-install/wp-importer.php:288
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Не вдалося імпортувати автора %s. Його публікації буде віднесено до поточного користувача."
+
+#: framework/features/demo-install/wp-importer.php:263
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Цей файл WXR (версія %s) може не підтримуватися цією версією імпортера. Будь ласка, подумайте про оновлення."
+
+#: framework/features/demo-install/wp-importer.php:247
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Файл експорту не вдалося знайти в <code>%s</code>. Ймовірно, це було спричинено проблемою дозволів."
+
+#: framework/features/demo-install/wp-importer.php:227
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Не забудьте оновити паролі та ролі імпортованих користувачів."
+
+#: framework/features/demo-install/wp-importer.php:226
+msgid "Have fun!"
+msgstr "Веселіться!"
+
+#: framework/features/demo-install/wp-importer.php:226
+msgid "All done."
+msgstr "Все зроблено."
+
+#: framework/features/demo-install/wp-importer.php:191
+#: framework/features/demo-install/wp-importer.php:242
+#: framework/features/demo-install/wp-importer.php:246
+#: framework/features/demo-install/wp-importer.php:255
+msgid "Sorry, there has been an error."
+msgstr "На жаль, сталася помилка."
+
+#: framework/features/demo-install/content-installer.php:356
+#: framework/features/demo-install/options-import.php:78
+#: framework/features/demo-install/widgets-import.php:78
+msgid "Downloaded demo is corrupted."
+msgstr "Завантажене демо пошкоджене."
+
+#: framework/features/conditions-manager.php:500
+msgid "User Roles"
+msgstr "Ролі користувачів"
+
+#: framework/features/conditions-manager.php:494
+msgid "User Logged Out"
+msgstr "Користувач вийшов"
+
+#: framework/features/conditions-manager.php:489
+msgid "User Logged In"
+msgstr "Користувач авторизований"
+
+#: framework/features/conditions-manager.php:485
+msgid "User Auth"
+msgstr "Авторизація користувача"
+
+#: framework/features/conditions-manager.php:479
+msgid "Author"
+msgstr "Автор"
+
+#: framework/features/conditions-manager.php:467
+msgid "Front Page"
+msgstr "Головна сторінка"
+
+#: framework/features/conditions-manager.php:462
+msgid "Blog"
+msgstr "Блог"
+
+#: framework/features/conditions-manager.php:457
+msgid "Search"
+msgstr "Пошук"
+
+#: framework/features/conditions-manager.php:452
+msgid "404"
+msgstr "404"
+
+#: framework/features/conditions-manager.php:448
+msgid "Other Pages"
+msgstr "Інші сторінки"
+
+#: framework/features/conditions-manager.php:437
+msgid "Taxonomy ID"
+msgstr "ID таксономії"
+
+#: framework/features/conditions-manager.php:432 static/bundle/options.js:6
+#: static/js/options/ConditionsManager/PostIdPicker.js:76
+msgid "Custom Post Type ID"
+msgstr "ID користувацького типу запису"
+
+#: framework/features/conditions-manager.php:427
+msgid "Page ID"
+msgstr "ID сторінки"
+
+#: framework/features/conditions-manager.php:422
+msgid "Post ID"
+msgstr "ID допису"
+
+#: framework/features/conditions-manager.php:418
+msgid "Specific"
+msgstr "Спеціальний"
+
+#: framework/features/conditions-manager.php:411
+msgid "Custom Post Types"
+msgstr "Користувацького типи записів"
+
+#: framework/features/conditions-manager.php:403
+msgid "Product Tags"
+msgstr "Позначки товарів"
+
+#: framework/features/conditions-manager.php:398
+msgid "Product Categories"
+msgstr "Категорії товарів"
+
+#: framework/features/conditions-manager.php:393
+msgid "Product Archives"
+msgstr "Архіви товарів"
+
+#: framework/features/conditions-manager.php:388
+msgid "Single Product"
+msgstr "Окремий товар"
+
+#: framework/features/conditions-manager.php:383
+msgid "Shop Home"
+msgstr "Сторінка магазину"
+
+#: framework/features/conditions-manager.php:379
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: framework/features/conditions-manager.php:371
+msgid "Single Page"
+msgstr "Окрема сторінка"
+
+#: framework/extensions/widgets/widgets/ct-posts/options.php:12
+#: framework/features/conditions-manager.php:367
+msgid "Pages"
+msgstr "Сторінки"
+
+#: framework/features/conditions-manager.php:361
+msgid "Post Tags"
+msgstr "Теги допису"
+
+#: framework/features/conditions-manager.php:356
+msgid "Post Categories"
+msgstr "Категорії дописів"
+
+#: framework/features/conditions-manager.php:351
+msgid "All Post Archives"
+msgstr "Архіви усіх дописів"
+
+#: framework/features/conditions-manager.php:346
+msgid "Single Post"
+msgstr "Окремий допис"
+
+#: framework/extensions/trending/customizer.php:4
+#: framework/extensions/widgets/widgets/ct-posts/options.php:11
+#: framework/extensions/widgets/widgets/ct-posts/options.php:98
+#: framework/extensions/widgets/widgets/ct-posts/view.php:133
+#: framework/extensions/widgets/widgets/ct-posts/widget.php:13
+#: framework/features/conditions-manager.php:342
+msgid "Posts"
+msgstr "Записи"
+
+#: framework/features/conditions-manager.php:336
+msgid "Archives"
+msgstr "Архіви"
+
+#: framework/features/conditions-manager.php:331
+msgid "Singulars"
+msgstr "Окремий"
+
+#: framework/features/conditions-manager.php:327
+msgid "Basic"
+msgstr "Базовий"
+
+#: framework/features/conditions-manager.php:321
+msgid "Entire Website"
+msgstr "Весь веб-сайт"
+
+#: framework/features/conditions-manager.php:309
+msgid "%s Archive"
+msgstr "%s Архів"
+
+#: framework/features/conditions-manager.php:301
+msgid "%s Single"
+msgstr "%s Окремий"
+
+#: framework/features/google-analytics.php:101
+msgid "Enable Google Analytics IP anonymization feature <a href=\"https://developers.google.com/analytics/devguides/collection/gtagjs/ip-anonymization\">(more info)</a>."
+msgstr "Увімкнути функцію анонімізації IP-адреси Google Analytics <a href=\"https://developers.google.com/analytics/devguides/collection/gtagjs/ip-anonymization\">(more info)</a>."
+
+#: framework/features/google-analytics.php:98
+msgid "IP Anonymization"
+msgstr "Анонімізація IP-адрес"
+
+#: framework/features/google-analytics.php:80
+msgid "Google Analytics v4"
+msgstr "Google Analytics v4"
+
+#: framework/features/google-analytics.php:74
+msgid "Insert your Google Analytics tracking ID."
+msgstr "Вставте ваш ID відстеження Google Analytics."
+
+#: framework/features/google-analytics.php:69
+msgid "Google Analytics"
+msgstr "Google аналітика"
+
+#: framework/features/opengraph-meta-data.php:43
+msgid "Twitter Username"
+msgstr "Ім'я користувача Twitter"
+
+#: framework/features/opengraph-meta-data.php:36
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: framework/features/opengraph-meta-data.php:29
+msgid "Facebook Page URL"
+msgstr "URL-адреса сторінки Facebook"
+
+#: framework/features/opengraph-meta-data.php:20
+msgid "Display a preview image and text excerpt when a link to your site is shared."
+msgstr "Відобразити фрагмент попереднього перегляду та тексту при поширенні посилання на ваш сайт."
+
+#: framework/features/opengraph-meta-data.php:17
+msgid "Opengraph Meta Data"
+msgstr "Мета-дані Opengraph"
+
+#: framework/theme-integration.php:354 static/bundle/dashboard.js:6
+#: static/js/screens/SiteExport.js:106
+msgid "PRO"
+msgstr "PRO"
+
+#: framework/theme-integration.php:338
+msgid "Companion"
+msgstr "Companion"
+
+#: framework/theme-integration.php:257
+msgid "Instagram"
+msgstr "Instagram"
+
+#: framework/theme-integration.php:256
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: framework/theme-integration.php:255
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: framework/theme-integration.php:254
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/extensions/widgets/widgets/ct-facebook/options.php:16
+#: framework/extensions/widgets/widgets/ct-facebook/view.php:12
+#: framework/extensions/widgets/widgets/ct-facebook/widget.php:13
+#: framework/theme-integration.php:253
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/widgets-manager.php:144
+msgid "Widget Title"
+msgstr "Заголовок віджета"
+
+#: framework/widgets-manager.php:81
+msgid "Display online support infomation"
+msgstr "Відобразити інформацію про онлайн підтримку"
+
+#: framework/widgets-manager.php:75
+msgid "Default widget name"
+msgstr "Назва віджета за замовчуванням"
+
+#: framework/widgets-manager.php:63
+msgid "Default widget description"
+msgstr "Опис віджета за замовчуванням"
+
+#: framework/extensions-manager.php:210
+msgid "Custom Fonts"
+msgstr "Користувацькі шрифти"
+
+#. Author URI of the plugin
+msgid "https://creativethemes.com"
+msgstr "https://creativethemes.com"
+
+#. Author of the plugin
+msgid "CreativeThemes"
+msgstr "CreativeThemes"
+
+#. Description of the plugin
+msgid "This plugin is the companion for the Blocksy theme, it runs and adds its enhacements only if the Blocksy theme is installed and active."
+msgstr "Цей плагін є супутником теми Blocksy, він запускається та додає вдосконалення, лише якщо тема Blocksy встановлена ​​та активна."
+
+#. Plugin Name of the plugin
+msgid "Blocksy Companion"
+msgstr "Blocksy Companion"
